@@ -1,0 +1,6 @@
+module Pods_RX_Sample {
+  umbrella header "Pods-RX Sample-umbrella.h"
+
+  export *
+  module * { export * }
+}
